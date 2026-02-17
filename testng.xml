@@ -1,0 +1,8 @@
+
+<suite name="CapstoneSuite">
+    <test name="WordPressTest">
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>
